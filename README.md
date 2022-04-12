@@ -1,24 +1,6 @@
-# vue2-upload
+### 分片上传文件 - Demo
 
-## Project setup
-```
-npm install
-```
+测试时，需要启动两个服务：
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 前端：<code>npm start</code>
+- 后端：<code>npm serve</code>
